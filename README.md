@@ -1,4 +1,4 @@
-<a href="https://colab.research.google.com/github/MarcusKLY/AI-Stock-Prediction/blob/main/Price_prediction.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+<a href=\"https://colab.research.google.com/github/MarcusKLY/AI-Stock-Prediction/blob/main/stock_price_prediction_2.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
 
 # AI-Stock-Prediction
 
